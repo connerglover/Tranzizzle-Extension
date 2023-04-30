@@ -2,7 +2,7 @@
 An extizzle ta automate tha "tranzizzilation" from Gizoogle onto every last muthaf*ckin webpage you go onto.
 
 ## Installation
-1. Download tha [Extemsopm Pem Key]((https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranzizzle-Extension.pem).
+1. Download tha [Extemsopm Pem Key](https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranzizzle-Extension.pem).
 2. Download tha [Tranzizzle Extension](https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranzizzle-Extension.crx).
 3. Go ta tha [Extensions Page](chrome://extensions)
 4. Drag `Tranzizzle-Extension.crx` tha f*ck into tha Extensions Page.
