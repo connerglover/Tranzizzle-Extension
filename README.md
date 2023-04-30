@@ -1,4 +1,4 @@
-# Transzizzle-Extension
+# Tranzizzle-UserScript
 A UserScript ta automatically redirect every last muthafuckin joint you go to, ta tha Gizoogle Website Transizzle Version of tha joint.
 
 ## Installation
