@@ -1,9 +1,16 @@
-# Tranzizzle-UserScript
-A UserScript ta automatically redirect every last muthafuckin joint you go to, ta tha Gizoogle Website Transizzle Version of tha joint.
+# Tranzizzle Extension
+An extizzle ta automate tha "tranzizzilation" from Gizoogle onto every last muthaf*ckin webpage you go onto.
 
 ## Installation
-1. Install tha Tampermonkey Extension [here](https://www.tampermonkey.net/)
-2. Install tha UserScript [here](https://github.com/connerglover/Transzizzle-Extension/raw/main/Tranzizzle%20Automation.user.js)
+1. Download tha [Tranzizzle Extension](https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranzizzle-Extension.crx). (**IF** it says "CRX_REQUIRED_PROOF_MISSING" or Asks you if you want to allow the file to be downloaded when you try to download the .CRX file, download the .ZIP file [here](https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranizzle-Extension.zip), then unzip the file.)
+2. Go ta tha [Extensions Page](chrome://extensions/).
+3. Drag `Tranzizzle-Extension.crx` tha f*ck into tha Extensions Page.
+4. Click "Add Extension"
+
+**Congratulations, you've successfully installed tha Tranzizzle Extension!**
+
+## Credits
+- [Gizoogle 2.0](https://github.com/Gizoogle) (Gizoogle Textilizer Bookmarklet)
 
 ## License
 
