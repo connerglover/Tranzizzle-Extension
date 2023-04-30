@@ -8,7 +8,7 @@ A UserScript ta automatically redirect every last muthafuckin joint you go to, t
 ## License
 
 ```
-MIT License
+Tranzizzled MIT License
 
 Copyright (c) 2023 Conner
 
