@@ -1,5 +1,5 @@
 # Tranzizzle Extension
-An extizzle ta automate tha "tranzizzilation" from Gizoogle onto every last muthaf*ckin webpage you go onto.
+An extension ta automate tha "tranzizzilation" from Gizoogle onto every last muthaf*ckin webpage you use.
 
 ## Installation
 1. Download tha [Tranzizzle Extension](https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranzizzle-Extension.crx). (**IF** it says "CRX_REQUIRED_PROOF_MISSING" or Asks you if you want to allow the file to be downloaded when you try to download the .CRX file, download the .ZIP file [here](https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranizzle-Extension.zip), then unzip the file.)
