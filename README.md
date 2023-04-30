@@ -2,7 +2,7 @@
 An extizzle ta automate tha "tranzizzilation" from Gizoogle onto every last muthaf*ckin webpage you go onto.
 
 ## Installation
-1. Download tha  [Tranzizzle Extension](https://gizoogle.net/).
+1. Download tha  [Tranzizzle Extension](https://github.com/connerglover/Tranzizzle-Extension/releases/latest/download/Tranzizzle-Extension.crx).
 2. Go ta tha [Extensions Page](chrome://extensions)
 3. Drag `Tranzizzle-Extension.crx` tha f*ck into tha Extensions Page.
 4. Click "Add Extension"
