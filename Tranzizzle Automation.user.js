@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name          Tranzizzle Automation
 // @version       1.0
+// @author        Conner Glover
 // @description   A UserScript ta automatically redirect every last muthafuckin joint you go to, ta tha Gizoogle Website Transizzle Version of tha joint.
 // @run-at        document-start
 // @match         *://*/*
