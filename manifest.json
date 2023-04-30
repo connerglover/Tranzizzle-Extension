@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Gizoogle Tranzizzler",
-  "description": "Tranzizzlez tha webpage you on tha fuck into gangsta.",
+  "description": "An extizzle ta automate tha \"tranzizzilation\" from Gizoogle onto every last muthaf*ckin webpae you go onto.",
   "version": "1.0",
   "icons": {
     "16": "/images/icon-16.png",
