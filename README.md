@@ -1,3 +1,13 @@
+# Transzizzle-Extension
+A UserScript ta automatically redirect every last muthafuckin joint you go to, ta tha Gizoogle Website Transizzle Version of tha joint.
+
+## Installation
+1. Install tha Tampermonkey Extension [here](https://www.tampermonkey.net/)
+2. Install tha UserScript [here](https://github.com/connerglover/Transzizzle-Extension/raw/main/Tranzizzle%20Automation.user.js)
+
+## License
+
+```
 Tranzizzled MIT License
 
 Copyright (c) 2023 Conner
@@ -19,3 +29,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
