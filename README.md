@@ -2,7 +2,7 @@
 An extension ta automate tha "tranzizzilation" from Gizoogle onto every last muthaf*ckin webpage you use.
 
 ## Installation
-[![Chrome](https://img.shields.io/badge/Chrome-273849?style=for-the-badge&logo=google-chrome&logoColor=3da37a)](about:blank/)
+[![Chrome](https://img.shields.io/badge/Chrome-273849?style=for-the-badge&logo=google-chrome&logoColor=3da37a)](https://chrome.google.com/webstore/detail/gizoogle-tranzizzler/afpoojkhjmkpidnmnnibhjhfgakmlomm?hl=en&authuser=0)
 [![Firefox](https://img.shields.io/badge/Firefox-273849?style=for-the-badge&logo=firefox&logoColor=3da37a)](https://addons.mozilla.org/en-US/firefox/addon/gizoogle-tranzizzler/)
 
 ## Credits
